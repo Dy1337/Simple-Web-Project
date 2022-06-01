@@ -1,2 +1,2 @@
-# Dy1337-Personal-Web-Project 😎
+# simple Web Project 😎
 Website with pure HTML, CSS and Javascript
